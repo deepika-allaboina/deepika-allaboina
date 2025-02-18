@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋 I am Deepika</h1>
 <h3 align="center">I’m a passionate Java developer</h3>
 
-- 🌱 I’m currently learning **react.**
 
 - 👯 I’m looking to collaborate on **Web development and java projects**.
 
