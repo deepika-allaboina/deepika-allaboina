@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web development and java projects**
 
-- 📝 I regularly write articles on [https://medium.com/@deepikamudhiraj34](https://medium.com/@deepikamudhiraj34)
+- 📝 I regularly write articles on [medium](https://medium.com/@deepika888)
 
 - 📫 How to reach me **deepikaallaboina@gmail.com**
 
