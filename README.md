@@ -63,6 +63,8 @@
       </a>
       <br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
       <br>GitHub
