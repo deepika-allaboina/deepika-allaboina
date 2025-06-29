@@ -21,6 +21,19 @@
 <table style="width: 100%; border-collapse: collapse;"> 
   <tr>
     <td align="center" width="100">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <a href="" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hibernate/hibernate-original.svg" alt="spring" width="40" height="40"/> </a>
+      <br>Hibernate
+    </td>
+    <td align="center" width="100">
+       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+      <br>Spring
+    </td>
+    <td align="center" width="100">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
       <br>HTML5
     </td>
@@ -39,19 +52,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/hibernate/hibernate-original.svg" alt="spring" width="40" height="40"/> </a>
-      <br>Hibernate
-    </td>
-    <td align="center" width="100">
-       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-      <br>Spring
     </td>
    <td align="center" width="100">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
