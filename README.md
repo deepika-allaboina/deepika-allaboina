@@ -64,11 +64,7 @@
       <br>MySQL
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-      <br>GitHub
-    </td>
+  <tr>    
     <td align="center" width="100">
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/eclipse/eclipse-original.svg" alt="oracle" width="40"           height="40"/> 
